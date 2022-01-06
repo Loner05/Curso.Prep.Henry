@@ -133,3 +133,5 @@ module.exports = {
   tieneTresDigitos,
   doWhile
 };
+
+function varamo();
